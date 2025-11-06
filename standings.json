@@ -1,0 +1,2023 @@
+{
+  "asOf": "2025-11-07",
+  "children": [
+    {
+      "name": "AFC",
+      "children": [
+        {
+          "name": "AFC East",
+          "standings": {
+            "entries": [
+              {
+                "team": {
+                  "displayName": "Buffalo Bills",
+                  "abbreviation": "BUF",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 7
+                  },
+                  {
+                    "name": "losses",
+                    "value": 2
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.778
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 279
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 213
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 66
+                  },
+                  {
+                    "name": "home",
+                    "value": "4-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "5-2"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "New England Patriots",
+                  "abbreviation": "NE",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 7
+                  },
+                  {
+                    "name": "losses",
+                    "value": 2
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.778
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 246
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 186
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 60
+                  },
+                  {
+                    "name": "home",
+                    "value": "4-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-0"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "5-2"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W6"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Miami Dolphins",
+                  "abbreviation": "MIA",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 3
+                  },
+                  {
+                    "name": "losses",
+                    "value": 6
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.333
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 196
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 241
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -45
+                  },
+                  {
+                    "name": "home",
+                    "value": "2-3"
+                  },
+                  {
+                    "name": "away",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "div",
+                    "value": "1-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "2-5"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L2"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "New York Jets",
+                  "abbreviation": "NYJ",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 1
+                  },
+                  {
+                    "name": "losses",
+                    "value": 8
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.111
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 187
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 268
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -81
+                  },
+                  {
+                    "name": "home",
+                    "value": "0-5"
+                  },
+                  {
+                    "name": "away",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "div",
+                    "value": "0-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "1-6"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L7"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "AFC North",
+          "standings": {
+            "entries": [
+              {
+                "team": {
+                  "displayName": "Pittsburgh Steelers",
+                  "abbreviation": "PIT",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 6
+                  },
+                  {
+                    "name": "losses",
+                    "value": 3
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.667
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 247
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 203
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 44
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "5-2"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Baltimore Ravens",
+                  "abbreviation": "BAL",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 6
+                  },
+                  {
+                    "name": "losses",
+                    "value": 3
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.667
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 279
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 241
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 38
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "away",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "div",
+                    "value": "1-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "4-2"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W2"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Cincinnati Bengals",
+                  "abbreviation": "CIN",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 4
+                  },
+                  {
+                    "name": "losses",
+                    "value": 5
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.444
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 252
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 254
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -2
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "away",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "div",
+                    "value": "1-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "3-3"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Cleveland Browns",
+                  "abbreviation": "CLE",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 1
+                  },
+                  {
+                    "name": "losses",
+                    "value": 8
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.111
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 167
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 279
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -112
+                  },
+                  {
+                    "name": "home",
+                    "value": "0-4"
+                  },
+                  {
+                    "name": "away",
+                    "value": "1-4"
+                  },
+                  {
+                    "name": "div",
+                    "value": "0-3"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "1-6"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L8"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "AFC South",
+          "standings": {
+            "entries": [
+              {
+                "team": {
+                  "displayName": "Indianapolis Colts",
+                  "abbreviation": "IND",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 7
+                  },
+                  {
+                    "name": "losses",
+                    "value": 2
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.778
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 261
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 186
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 75
+                  },
+                  {
+                    "name": "home",
+                    "value": "4-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "div",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "6-1"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W4"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Jacksonville Jaguars",
+                  "abbreviation": "JAX",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 5
+                  },
+                  {
+                    "name": "losses",
+                    "value": 4
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.556
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 228
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 249
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -21
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "4-3"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Houston Texans",
+                  "abbreviation": "HOU",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 5
+                  },
+                  {
+                    "name": "losses",
+                    "value": 4
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.556
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 241
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 230
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 11
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "4-3"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Tennessee Titans",
+                  "abbreviation": "TEN",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 1
+                  },
+                  {
+                    "name": "losses",
+                    "value": 8
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.111
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 165
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 268
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -103
+                  },
+                  {
+                    "name": "home",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "away",
+                    "value": "0-5"
+                  },
+                  {
+                    "name": "div",
+                    "value": "0-3"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "1-6"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L5"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "AFC West",
+          "standings": {
+            "entries": [
+              {
+                "team": {
+                  "displayName": "Denver Broncos",
+                  "abbreviation": "DEN",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 7
+                  },
+                  {
+                    "name": "losses",
+                    "value": 2
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.778
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 218
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 168
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 50
+                  },
+                  {
+                    "name": "home",
+                    "value": "4-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "6-1"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W3"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "LA Chargers",
+                  "abbreviation": "LAC",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 6
+                  },
+                  {
+                    "name": "losses",
+                    "value": 3
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.667
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 207
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 158
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 49
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "4-3"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Kansas City Chiefs",
+                  "abbreviation": "KC",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 5
+                  },
+                  {
+                    "name": "losses",
+                    "value": 4
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.556
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 229
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 220
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 9
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "1-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "3-4"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Las Vegas Raiders",
+                  "abbreviation": "LV",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 2
+                  },
+                  {
+                    "name": "losses",
+                    "value": 7
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.222
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 187
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 276
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -89
+                  },
+                  {
+                    "name": "home",
+                    "value": "1-4"
+                  },
+                  {
+                    "name": "away",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "div",
+                    "value": "1-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "2-6"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L1"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "NFC",
+      "children": [
+        {
+          "name": "NFC East",
+          "standings": {
+            "entries": [
+              {
+                "team": {
+                  "displayName": "Philadelphia Eagles",
+                  "abbreviation": "PHI",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 7
+                  },
+                  {
+                    "name": "losses",
+                    "value": 2
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.778
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 241
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 186
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 55
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "4-1"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-0"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "5-1"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Washington Commanders",
+                  "abbreviation": "WAS",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/was.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 6
+                  },
+                  {
+                    "name": "losses",
+                    "value": 3
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.667
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 268
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 262
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 6
+                  },
+                  {
+                    "name": "home",
+                    "value": "4-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "1-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "4-3"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L2"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Dallas Cowboys",
+                  "abbreviation": "DAL",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 3
+                  },
+                  {
+                    "name": "losses",
+                    "value": 6
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.333
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 198
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 254
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -56
+                  },
+                  {
+                    "name": "home",
+                    "value": "2-3"
+                  },
+                  {
+                    "name": "away",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "div",
+                    "value": "0-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "2-5"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L2"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "New York Giants",
+                  "abbreviation": "NYG",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 2
+                  },
+                  {
+                    "name": "losses",
+                    "value": 7
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.222
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 176
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 241
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -65
+                  },
+                  {
+                    "name": "home",
+                    "value": "1-4"
+                  },
+                  {
+                    "name": "away",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "div",
+                    "value": "0-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "1-6"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L1"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "NFC North",
+          "standings": {
+            "entries": [
+              {
+                "team": {
+                  "displayName": "Detroit Lions",
+                  "abbreviation": "DET",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 7
+                  },
+                  {
+                    "name": "losses",
+                    "value": 2
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.778
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 279
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 203
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 76
+                  },
+                  {
+                    "name": "home",
+                    "value": "4-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "5-2"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Minnesota Vikings",
+                  "abbreviation": "MIN",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 6
+                  },
+                  {
+                    "name": "losses",
+                    "value": 3
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.667
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 246
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 227
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 19
+                  },
+                  {
+                    "name": "home",
+                    "value": "4-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "5-2"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Green Bay Packers",
+                  "abbreviation": "GB",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 5
+                  },
+                  {
+                    "name": "losses",
+                    "value": 4
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.556
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 241
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 230
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 11
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "4-3"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Chicago Bears",
+                  "abbreviation": "CHI",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 5
+                  },
+                  {
+                    "name": "losses",
+                    "value": 3
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.625
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 254
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 220
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 34
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "NFC South",
+          "standings": {
+            "entries": [
+              {
+                "team": {
+                  "displayName": "Tampa Bay Buccaneers",
+                  "abbreviation": "TB",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 5
+                  },
+                  {
+                    "name": "losses",
+                    "value": 4
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.556
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 289
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 279
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 10
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-3"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "4-3"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Carolina Panthers",
+                  "abbreviation": "CAR",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 5
+                  },
+                  {
+                    "name": "losses",
+                    "value": 4
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.556
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 262
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 268
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -6
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "1-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "3-3"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Atlanta Falcons",
+                  "abbreviation": "ATL",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 4
+                  },
+                  {
+                    "name": "losses",
+                    "value": 5
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.444
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 241
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 262
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -21
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "away",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "div",
+                    "value": "1-2"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "3-4"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L3"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "New Orleans Saints",
+                  "abbreviation": "NO",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 2
+                  },
+                  {
+                    "name": "losses",
+                    "value": 7
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.222
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 213
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 268
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -55
+                  },
+                  {
+                    "name": "home",
+                    "value": "1-4"
+                  },
+                  {
+                    "name": "away",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "div",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "2-5"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "L5"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "NFC West",
+          "standings": {
+            "entries": [
+              {
+                "team": {
+                  "displayName": "Seattle Seahawks",
+                  "abbreviation": "SEA",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 6
+                  },
+                  {
+                    "name": "losses",
+                    "value": 3
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.667
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 276
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 220
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 56
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "5-2"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "LA Rams",
+                  "abbreviation": "LAR",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 6
+                  },
+                  {
+                    "name": "losses",
+                    "value": 3
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.667
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 268
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 227
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 41
+                  },
+                  {
+                    "name": "home",
+                    "value": "4-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "5-2"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W3"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "San Francisco 49ers",
+                  "abbreviation": "SF",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 6
+                  },
+                  {
+                    "name": "losses",
+                    "value": 3
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.667
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 254
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 213
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": 41
+                  },
+                  {
+                    "name": "home",
+                    "value": "3-1"
+                  },
+                  {
+                    "name": "away",
+                    "value": "3-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "2-1"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "5-2"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              },
+              {
+                "team": {
+                  "displayName": "Arizona Cardinals",
+                  "abbreviation": "ARI",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png"
+                    }
+                  ]
+                },
+                "stats": [
+                  {
+                    "name": "wins",
+                    "value": 4
+                  },
+                  {
+                    "name": "losses",
+                    "value": 5
+                  },
+                  {
+                    "name": "ties",
+                    "value": 0
+                  },
+                  {
+                    "name": "winPercent",
+                    "value": 0.444
+                  },
+                  {
+                    "name": "pointsFor",
+                    "value": 238
+                  },
+                  {
+                    "name": "pointsAgainst",
+                    "value": 262
+                  },
+                  {
+                    "name": "pointDifferential",
+                    "value": -24
+                  },
+                  {
+                    "name": "home",
+                    "value": "2-3"
+                  },
+                  {
+                    "name": "away",
+                    "value": "2-2"
+                  },
+                  {
+                    "name": "div",
+                    "value": "1-3"
+                  },
+                  {
+                    "name": "conf",
+                    "value": "3-4"
+                  },
+                  {
+                    "name": "streak",
+                    "value": "W1"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
